@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582955566887",
+    "project_id": "srgp-learning-point",
+    "storage_bucket": "srgp-learning-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582955566887:android:6872b1010f876fac068b02",
+        "android_client_info": {
+          "package_name": "com.example.srgplearningpoint_adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582955566887-4lt833rg2spl8lnn4m5vpt6ee3657tk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWAscvR6jYWPudN0Xlul9lqVzlI2ENrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582955566887-4lt833rg2spl8lnn4m5vpt6ee3657tk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
